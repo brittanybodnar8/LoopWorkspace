@@ -250,7 +250,6 @@ jobs:
           profiles \
           basal_lock \
           negative_insulin \
-          remote_window \
           remote_carb_edit \
           xdrip_cgm
 
